@@ -20,8 +20,8 @@ NJIT MCL 启动器（[Plain Craft Launcher 2](https://github.com/Hex-Dragon/PCL2
 | 项 | 值 |
 |---|---|
 | 组织 | [njit-fkcy](https://github.com/njit-fkcy) |
-| 最新版本 | **v1.5.4** |
-| Release 数量 | 22（v1.0.3 ～ v1.5.4） |
+| 最新版本 | **v1.5.6** |
+| Release 数量 | 24（v1.0.3 ～ v1.5.6） |
 | 每个 Release 资产 | 10 个（9 个运行文件 + 1 个完整 zip） |
 | 更新清单 | https://njitmc.club/update/njitmcl.json |
 | 官网 | https://njitmc.club |
@@ -57,6 +57,8 @@ NJIT MCL 启动器（[Plain Craft Launcher 2](https://github.com/Hex-Dragon/PCL2
 
 | 版本 | Tag | 主程序 | 资产 | 发布 |
 |---|---|---|---|---|
+| 1.5.6 | `v1.5.6` | 5.8 MB | 10 | 2026-11-01 |
+| 1.5.5 | `v1.5.5` | 5.8 MB | 10 | 2026-10-31 |
 | 1.5.4 | `v1.5.4` | 5.8 MB | 10 | 2026-10-30 |
 | 1.5.3 | `v1.5.3` | 5.8 MB | 10 | 2026-10-29 |
 | 1.5.2 | `v1.5.2` | 5.8 MB | 10 | 2026-10-29 |
